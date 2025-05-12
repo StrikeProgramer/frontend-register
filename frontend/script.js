@@ -1,7 +1,7 @@
 // API configuration
 const API = window.location.hostname === 'localhost' 
   ? 'http://localhost:3001/api'  
-  : 'https://formulario-web-backend.onrender.com/api'; // URL de tu backend en Render
+  : 'https://backend-register-42r1.onrender.com'; // URL de tu backend en Render
 
 // DOM Elements
 const form = document.getElementById('formulario');
